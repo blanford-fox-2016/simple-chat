@@ -1,0 +1,27 @@
+{
+  "name": "simple-chat",
+  "version": "1.0.0",
+  "description": "create a simple socket.io chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blanford-fox-2016/simple-chat.git"
+  },
+  "keywords": [
+    "chat",
+    "socket.io"
+  ],
+  "author": "Ahyana Rizky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blanford-fox-2016/simple-chat/issues"
+  },
+  "homepage": "https://github.com/blanford-fox-2016/simple-chat#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.1"
+  }
+}
