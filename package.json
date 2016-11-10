@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/blanford-fox-2016/simple-chat#readme",
   "dependencies": {
-    "express": "^4.10.2"
+    "express": "^4.10.2",
+    "socket.io": "^1.5.1"
   }
 }
